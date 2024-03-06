@@ -1,6 +1,6 @@
-# Ethereum Wallet Watcher
+Simple example of the smart wallet implementation using the coinbase wallet sdk
 
-This project is a simple implementation of an Ethereum wallet watcher using the Ethereum provider's `wallet_watchAsset` method.
+# Simple example of the smart wallet implementation using the coinbase wallet sdk
 
 ## Getting Started
 
