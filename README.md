@@ -1,5 +1,24 @@
-Simple example of the smart wallet implementation using the coinbase wallet sdk
+# Ethereum Wallet Watcher
 
+This project is a simple implementation of an Ethereum wallet watcher using the Ethereum provider's `wallet_watchAsset` method.
+
+## Getting Started
+
+First, clone the repository and install the dependencies:
+bash
+git clone https://github.com/yourusername/ethereum-wallet-watcher.git
+cd ethereum-wallet-watcher
+npm install
+
+Then, start the development server:
+
+npm run dev
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Usage
+
+The application watches an Ethereum wallet
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
